@@ -1,0 +1,6 @@
+pylint==3.0.3
+pytest==8.0.0
+pytest-cov==4.1.0
+black==24.2.0
+ipython==8.21.0
+
